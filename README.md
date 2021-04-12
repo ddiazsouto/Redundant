@@ -1,5 +1,5 @@
 # Sentencer
-<p>Sentencer is rinking an ice breaker</p>
+<p>Sentencer is risking an ice breaker</p>
 <p>It populates databases</p>
 <p>Rocks parties</p>
 <p>And sometimes generates sentences</p>
